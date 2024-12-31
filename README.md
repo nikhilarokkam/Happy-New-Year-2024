@@ -1,4 +1,4 @@
-# Happy New Year 2024 Animation
+# Happy New Year 2025 Animation
 
 A simple New Year animation created with HTML, CSS, and JavaScript. Celebrate the arrival of the new year with vibrant fireworks.
 
